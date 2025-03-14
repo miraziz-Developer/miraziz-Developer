@@ -20,5 +20,6 @@
 
 
 #### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miraziz-Developer&show_icons=true&theme=dark) 
-![snake animation]([https://github.com/](https://raw.githubusercontent.com/)miraziz-Developer/miraziz-Developer/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Contributions Snake  
+![snake animation](https://github.com/miraziz-Developer/miraziz-Developer/blob/output/github-contribution-grid-snake.svg)
 
