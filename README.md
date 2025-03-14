@@ -23,6 +23,5 @@
 ![snake animation](https://github.com/miraziz-Developer/miraziz-Developer/blob/output/github-contribution-grid-snake.svg)
 
 
-              ![](https://komarev.com/ghpvc/?username=miraziz-Developer&color=green)
 
 
