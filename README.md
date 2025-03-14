@@ -21,6 +21,6 @@
 ####
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miraziz-Developer&show_icons=true&theme=dark)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=miraziz-Developer&color=green" style="margin-left: 220px;">
-</p>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=miraziz-Developer&color=green" width="150" height="30">
+</div>
