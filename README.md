@@ -19,6 +19,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/M_E_I_7)
 
 
-#### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miraziz-Developer&show_icons=true&theme=dark) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miraziz-Developer&theme=dark)](https://git.io/streak-stats)
+#### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miraziz-Developer&show_icons=true&theme=dark)  ![snake animation](https://github.com/miraziz-Developer/miraziz-Developer/blob/output/github-contribution-grid-snake.svg)
 
