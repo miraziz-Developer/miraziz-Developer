@@ -1,4 +1,4 @@
-# Hi 👋, I'm Miraziz Erkinaliyev                           ![](https://komarev.com/ghpvc/?username=miraziz-Developer&color=green)
+# Hi 👋, I'm Miraziz Erkinaliyev                                                                                                         ![](https://komarev.com/ghpvc/?username=miraziz-Developer&color=green)
 ## Software Engineer 🖥️ | Python
 
 - 💬 Ask me about:
